@@ -1,5 +1,5 @@
 # Calculator
-A Calculator done in python
+Calculator(Python)
 ============================
 A Simple calculator application done using the Tkinter module of python.
 
